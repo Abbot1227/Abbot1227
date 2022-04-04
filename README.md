@@ -1,4 +1,4 @@
 ### Greetings, sir. The desert awaits you.
 
-- 🔭 Interested in AR/VR, Gamedev, IoT
+- 🔭 Space enthusiasts
 - 📫 t.me/abbot1227
