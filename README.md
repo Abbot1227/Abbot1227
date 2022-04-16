@@ -1,4 +1,4 @@
-### Greetings, sir. The desert awaits you.
+## Greetings, sir. The desert awaits you.
 
 - 🔭 Space enthusiasts
 - 📔 Backend Golang developer
