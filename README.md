@@ -2,7 +2,7 @@
 
 - 🔭 Space enthusiasts
 - 📔 Backend Golang developer
-- 📚 Interested in Blockchain, AR/VR, AI
+- 📚 Interested in
 - 📫 t.me/abbot1227
 
 
